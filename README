@@ -2,8 +2,8 @@
 
 This project integrates three AI models to enhance elderly safety and healthcare monitoring:
 
-- [Fall Detection](./fall_detection) – Deep learning model.
-- [Activity Classification](activity_classification) – Machine Learning model using accelerometer sensor data.
-- [Health Monitoring](health_monitoring) – Vital signs classification into three risk levels.
+- [Fall Detection] – Deep learning model.
+- [Activity Classification] – Machine Learning model using accelerometer sensor data.
+- [Health Monitoring] – Vital signs classification into three risk levels.
 
 All models were deployed using **FastAPI, Docker, DockerHub, and Azure Cloud**, and integrated into a mobile application for real-time monitoring and caregiver alerts.
